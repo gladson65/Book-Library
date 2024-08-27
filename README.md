@@ -1,7 +1,7 @@
 # Online Book Library (React + Vite project) 
 
 -   This is a simple online book library app with some specific
-    functionality.
+    functionality to manage your books on the internet.
 
 ### instruction: -  How to Run:
     1. This is a React - Vite project. So first run in the terminal: 'cd Online-Library'
