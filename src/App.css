@@ -1,0 +1,37 @@
+/* Home page styling */
+
+.home-container #homeText {
+    font-family: Snell Roundhand, cursive;
+    letter-spacing: 0.1rem;
+}
+
+.home-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-textContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;   
+    padding: 30px;
+}
+
+.listCategory > select {
+    width: 50%;
+    text-align: center;
+    margin: 0px 25%;
+    padding: 7px;
+    border-radius: 10px;
+    outline: solid;
+}
+.listCategory > select:focus {
+    outline-color: blueviolet;
+}
+.listCategory > select > option {
+    background-color: rgba(55, 199, 163, 0.814);
+    color: rgb(0, 0, 0);
+}
+
